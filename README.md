@@ -27,7 +27,7 @@ Official archive layout may differ; adjust paths in `preprocess.py` / `wav.scp` 
 
 ## Prerequisites
 
-- Kaldi built on **Linux or WSL** (see NTUA *Kaldi install help* PDF on Moodle)
+- Kaldi built on **Linux or WSL** 
 - Set `KALDI_ROOT` in `path.sh` to your Kaldi clone
 
 ## Quick start (inside this directory)
