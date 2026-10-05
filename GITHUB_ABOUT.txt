@@ -1,0 +1,1 @@
+NTUA MSc SLP Lab 1: Kaldi GMM-HMM phone recognition on the USC speech corpus (monophone & triphone, uni/bigram LMs). Python preprocessing + bash recipe.

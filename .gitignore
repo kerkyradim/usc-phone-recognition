@@ -1,0 +1,20 @@
+# Kaldi runtime outputs
+/exp/
+/mfcc/
+/steps
+/utils
+
+# Audio (download USC corpus separately)
+/wav/
+*.wav
+
+# Generated features
+**/feats.scp
+**/cmvn.scp
+**/split*/
+**/.backup/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
