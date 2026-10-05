@@ -47,6 +47,4 @@ bash 4_3.sh    # MFCC + CMVN
 bash 4_4.sh
 ```
 
-## Author
 
-Kerkyra Dimisianou — [kerkyradim](https://github.com/kerkyradim)
